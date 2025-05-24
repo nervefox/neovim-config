@@ -1,5 +1,4 @@
 -- Enable line numbers
-
 vim.o.number = true
 -- Make line numbers relative (useful for jumping)
 vim.o.relativenumber = true
@@ -47,4 +46,5 @@ vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
+-- Set colorscheme
 vim.cmd.colorscheme("vim")
