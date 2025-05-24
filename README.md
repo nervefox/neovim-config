@@ -23,7 +23,7 @@ This configuration can be used as a starting point for your own config.
 
 #### Installing Plugins
 
-To add new plugins, create a separate Lua file for each inside the `/lua/plugins/` directory. You can use the existing [treesitter file](lua/plugins/treesitter.lua) as a reference.
+To add new plugins, create a separate Lua file for each inside the `lua/plugins` directory. You can use the existing [treesitter file](lua/plugins/treesitter.lua) as a reference.
 
 #### Installing Colorschemes
 
