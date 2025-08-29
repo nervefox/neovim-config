@@ -8,7 +8,7 @@
 Clone this repository to your Neovim configuration directory:
 
 ```bash
-git clone https://github.com/nervefox/cleave.nvim.git ~/.config/nvim
+git clone https://github.com/nervefox/neovim=config.git ~/.config/nvim
 ```
 
 ## Usage
