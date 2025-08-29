@@ -1,7 +1,3 @@
-# cleave.nvim
-
-A simple Neovim configuration that cuts out unnecessary features.
-
 ## Requirements
 
 * **Neovim** (latest stable version is recommended).
