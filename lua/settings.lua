@@ -26,6 +26,9 @@ vim.o.splitbelow = true
 -- Disable line wrapping
 vim.o.wrap = false
 
+-- Enable colors
+vim.opt.termguicolors = true
+
 -- Minimal number of screen lines to keep above and below the cursor.
 vim.o.scrolloff = 10
 
@@ -47,4 +50,4 @@ vim.opt.shiftwidth = 4
 vim.opt.expandtab = true
 
 -- Set colorscheme
-vim.cmd.colorscheme("vim")
+vim.cmd.colorscheme("torte")

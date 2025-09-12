@@ -6,4 +6,3 @@ vim.g.maplocalleader = ' '
 require("settings")
 require("keymaps")
 require("autocmds")
-require("lazysetup")
