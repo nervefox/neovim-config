@@ -41,11 +41,6 @@ vim.o.inccommand = 'split'
 -- Enable confirmation when quitting an unsaved file
 vim.o.confirm = true
 
--- Merge neovim and system clipboard
-vim.schedule(function()
-  vim.o.clipboard = 'unnamedplus'
-end)
-
 -- Set default indent size
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
